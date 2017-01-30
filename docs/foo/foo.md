@@ -1,1 +1,2 @@
 docs/foo
+## index
